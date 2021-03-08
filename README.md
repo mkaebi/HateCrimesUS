@@ -518,7 +518,6 @@ ggplot(df, aes(
 
 # Mapas
 
-## Não separado por região
 
 ``` r
 ##1
